@@ -1,2 +1,2 @@
-<b><p align = center>Ryan Caudill</p></b>
+# <b><p align = center>Ryan Caudill</p></b>
 Current Cirriculum Vitae
