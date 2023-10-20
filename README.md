@@ -1,2 +1,2 @@
-## Ryan Caudill
-# Current Cirriculum Vitae/Resume
+# Ryan Caudill
+## Current Cirriculum Vitae
