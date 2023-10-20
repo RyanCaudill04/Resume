@@ -1,2 +1,2 @@
 # <b><p align = center>Ryan Caudill</p></b>
-Current Cirriculum Vitae
+<p align = center>Current Cirriculum Vitae</p>
